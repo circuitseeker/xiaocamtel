@@ -7,11 +7,11 @@
 #include <TinyGPSPlus.h>
 
 // --- WiFi / Telegram ---
-const char* ssid = "Helium iot";
-const char* password = "upsurge.io";
+const char* ssid = "iot;;
+const char* password = "iot";
 
-String chatId = "2049241502";
-String BOTtoken = "7966378089:AAEBIveW8ku4oddEebJ949jWw0TwMoji4M0";
+String chatId = "xxxxxx";
+String BOTtoken = "xxxxx";
 
 WiFiClientSecure clientTCP;
 
